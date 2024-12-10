@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Vitória Lacerda!
+# 👋 Oii, eu sou a Vitória Lacerda!
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** no IFPR.  
 🌈 Apaixonada por tecnologia, desenvolvimento web e design gráfico.  
